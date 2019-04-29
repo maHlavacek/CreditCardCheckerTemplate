@@ -61,6 +61,7 @@ namespace CreditCardChecker
         /// </summary>
         private static int CalculateCheckDigit(int oddSum, int evenSum)
         {
+            //throw new NotImplementedException();
             throw new NotImplementedException();
         }
 
